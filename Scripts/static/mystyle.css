@@ -1,0 +1,83 @@
+html {background-color:black;}
+
+
+
+body {font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+     color: white;
+     margin: 55px;
+     border: 10px;
+     padding:50px;
+     text-align: center;
+background-color:rgb(255,060,050)} 
+
+h1 h2 h3 {text-align: center;}
+p {margin: 15px;
+   text-align: center;}
+
+#navstyle {list-style-type: none;
+     margin: 0px;
+     padding: 0px;
+     text-align: center;}
+/*link*/
+a:link {color: black;
+    text-decoration: none;}
+/*visited link*/
+a:visited {color: mediumvioletred;
+         text-decoration: none;}
+/*mouse hover*/
+a:hover {color: purple;
+        text-decoration: underline;}
+
+p {margin-left: 100;
+    margin-right: 100px;
+    padding:5px;}
+#contact {text-align:match-parent;}
+
+button {background-color: black;}
+.question {font-style: italic;
+             line-height:2em;}
+
+
+
+article  {margin:10px;
+          margin-right: 200px;
+          margin-left: 200px;
+          padding: 5px;
+          text-align : justify;}
+      article #art2 { text-align: center;
+                margin:10px;}
+
+#ch3main {margin:5px;
+        border: 5px solid black;
+         float: left;}
+
+#ck3art1 {margin:10px;
+        border: 5px solid black;
+         float: left;
+        }
+#sct1 {margin:auto;}
+
+#char1 { margin:10px;
+        border: 2px solid black;
+        float: right;}
+#char2 { margin:10px;
+        border: 2px solid black;
+        float: right;}
+ 
+    #aboutus {text-decoration: none}
+
+#starfieldmain {margin:10px;
+    border: 5px solid black;}
+        
+#starfieldmain2 {margin:15px;
+                border:2px solid black; 
+                float: right;}
+#star3 {margin: 30px;
+        border:2px solid black;
+        float:left;}
+#star4 {margin: 30px;
+        border:2px solid black;
+        float:right;}
+   /*copyright decleration*/
+footer .copyright {font-size: 0.7em;
+                   line-height: 15px;}
